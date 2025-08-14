@@ -1,0 +1,3 @@
+site_name: PHP Handbook
+nav:
+  - Главная: docs/index.md
